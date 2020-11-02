@@ -87,6 +87,12 @@ pre {
   font-family: 'Lato', sans-serif;
 }
 
+ h1 .xl {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+}
+
 /* Showcase */
 .showcase {
   height: 400px;
