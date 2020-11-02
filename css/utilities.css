@@ -103,6 +103,8 @@
 
 .xl { 
   font-size: 4rem;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
 }
 
 .text-center {
